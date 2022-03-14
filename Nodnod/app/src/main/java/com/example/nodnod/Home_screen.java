@@ -7,19 +7,19 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class Login_screen extends AppCompatActivity {
+public class Home_screen extends AppCompatActivity {
 
-    Button login;
+    Button today;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login_screen);
+        setContentView(R.layout.activity_home_screen);
         // untuk kalo nge klik tombol login
-        login = findViewById(R.id.login);
-        login.setOnClickListener(new View.OnClickListener() {
+        today = findViewById(R.id.today);
+        today.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(Login_screen.this,Home_screen.class));
+                startActivity(new Intent(Home_screen.this,MainActivity.class));
             }
         });
     }
