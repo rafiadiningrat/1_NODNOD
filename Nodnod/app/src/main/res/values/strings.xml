@@ -1,3 +1,51 @@
 <resources>
     <string name="app_name">Nodnod</string>
+
+
+    <string-array name="list_tugas">
+        <item>Tugas 1</item>
+        <item>Tugas 2</item>
+        <item>Tugas 3</item>
+        <item>Tugas 4</item>
+        <item>Tugas 5</item>
+        <item>Tugas 6</item>
+        <item>Tugas 7</item>
+        <item>Tugas 8</item>
+        <item>Tugas 9</item>
+    </string-array>
+    <string-array name="tanggal">
+        <item>Tugas 1</item>
+        <item>Tugas 2</item>
+        <item>Tugas 3</item>
+        <item>Tugas 4</item>
+        <item>Tugas 5</item>
+        <item>Tugas 6</item>
+        <item>Tugas 7</item>
+        <item>Tugas 8</item>
+        <item>Tugas 9</item>
+    </string-array>
+    <string-array name="status">
+        <item>Tugas 1</item>
+        <item>Tugas 2</item>
+        <item>Tugas 3</item>
+        <item>Tugas 4</item>
+        <item>Tugas 5</item>
+        <item>Tugas 6</item>
+        <item>Tugas 7</item>
+        <item>Tugas 8</item>
+        <item>Tugas 9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Tugas 1</item>
+        <item>Tugas 2</item>
+        <item>Tugas 3</item>
+        <item>Tugas 4</item>
+        <item>Tugas 5</item>
+        <item>Tugas 6</item>
+        <item>Tugas 7</item>
+        <item>Tugas 8</item>
+        <item>Tugas 9</item>
+    </string-array>
+
 </resources>
+
